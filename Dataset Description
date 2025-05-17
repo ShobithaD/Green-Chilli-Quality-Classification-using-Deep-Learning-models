@@ -1,0 +1,13 @@
+Dataset Overview 
+The dataset used in this project consists of 2,100 images of green chilies, which 
+were captured using a Redmi Note 13 5G mobile phone. These images were 
+collected from various local markets and farms, where fresh green chilies were 
+sorted manually before being photographed. The dataset is divided into three 
+quality grades, each containing 700 images.
+
+Grade 1: Contains healthy, vibrant, and straight green chilies. 
+Grade 2: Includes dark green chilies that are complete but not as 
+vibrant. 
+Grade 3: Consists of chilies that are spotted, bent, coiled, or visually 
+imperfect.
+
